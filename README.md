@@ -9,9 +9,11 @@ Tiny low power mesh node with gps, rotary encoder, and oled display
 | 1   | nRF52840 ProMicro               | MCU                           | 8.76       | [AliExpress](https://www.aliexpress.com/item/1005006446457448.html)                         |
 | 1   | 0.96" OLED Display              | Pinout needs to be GND,VCC... | 1.82       | [AliExpress](https://www.aliexpress.com/item/1005008738379315.html)                         |
 | 2   | Switches                        |                               | 1.32       | [AliExpress](https://www.aliexpress.com/item/4001125532910.html)                            |
+| 1   | GP-02-KIT GPS Module            |                               | 3.35       | [AliExpress](https://www.aliexpress.com/item/1005008346885630.html)                         |
+| 1   | Slide Switch                    | For GPS module (5mm)          | 1.37       | [AliExpress](https://www.aliexpress.com/item/1005007162182882.html)                         |
 | 1   | 868MHz antenna                  |                               | 9.50       | [Amazon](https://www.amazon.co.uk/gp/product/B0D359GRPZ)                                    |
 |-----|---------------------------------|-------------------------------|------------|-----|
 | 5   | PCB                             | Min order qty - 5             | 0.00       | JLCPCB                                                                                      |
 |-----|---------------------------------|-------------------------------|------------|-----|
-|-----|---------------------------------|-------------------------------| 27.99GBP   |-----|
-|-----|---------------------------------|-------------------------------| 37.78USD   |-----|
+|-----|---------------------------------|-------------------------------| 32.71GBP   |-----|
+|-----|---------------------------------|-------------------------------| 44.16USD   |-----|
