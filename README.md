@@ -11,9 +11,9 @@ Tiny low power mesh node with gps, rotary encoder, and oled display
 | 2   | Switches                        |                               | 1.32       | [AliExpress](https://www.aliexpress.com/item/4001125532910.html)                            |
 | 1   | GP-02-KIT GPS Module            |                               | 3.35       | [AliExpress](https://www.aliexpress.com/item/1005008346885630.html)                         |
 | 1   | Slide Switch                    | For GPS module (5mm)          | 1.37       | [AliExpress](https://www.aliexpress.com/item/1005007162182882.html)                         |
-| 1   | 868MHz antenna                  |                               | 9.50       | [Amazon](https://www.amazon.co.uk/gp/product/B0D359GRPZ)                                    |
+| 1   | 868MHz antenna (SMA M)          |                               | 4.52       | [AliExpress](https://www.aliexpress.com/item/1005006712636707.html)                         |
 |-----|---------------------------------|-------------------------------|------------|-----|
-| 5   | PCB                             | Min order qty - 5             | 0.00       | JLCPCB                                                                                      |
+| 5   | PCB                             | Min order qty - 5             | 1.11       | JLCPCB                                                                                      |
 |-----|---------------------------------|-------------------------------|------------|-----|
 |-----|---------------------------------|-------------------------------| 32.71GBP   |-----|
 |-----|---------------------------------|-------------------------------| 44.16USD   |-----|
