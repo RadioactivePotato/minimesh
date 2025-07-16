@@ -39,3 +39,27 @@ This took quite a while but I managed to make it look good
 <img width="556" height="592" alt="image" src="https://github.com/user-attachments/assets/1b3ac05d-f5b4-4555-a22c-38d219efb6ab" />
 
 I'm going model the case tomorrow!
+
+# July 16 - Case Design (2 hours)
+
+Today I made the case, the case will be printed in 2 parts, the base and the lid
+
+<img width="652" height="481" alt="image" src="https://github.com/user-attachments/assets/8539a7de-eda2-4077-92cd-8b89e8943c51" />
+
+I added a hole for the IPEX/u.FL to SMA connector to screw into (for the antenna)
+
+<img width="747" height="462" alt="image" src="https://github.com/user-attachments/assets/5bc12cd8-0134-4908-9f07-df1d77a6c70e" />
+
+The PCB will sit ontop of the platforms inside the case
+
+<img width="696" height="402" alt="image" src="https://github.com/user-attachments/assets/f64d56d3-66f1-487d-b31d-437fa37d06c2" />
+
+And the lid will clip into place to the base
+
+To design the case, I imported a refrence image and drew around it, the GPS module and the BME280 module will sit at the bottom, and the wires will run up through the side.
+
+<img width="300" height="482" alt="image" src="https://github.com/user-attachments/assets/910f0c00-2b42-42c7-8fe7-7a219234c5b0" />
+
+<img width="509" height="537" alt="image" src="https://github.com/user-attachments/assets/b76b7b04-8e52-4238-8728-22833dc487ae" />
+
+This is what the case looks like with the antenna installed, 
