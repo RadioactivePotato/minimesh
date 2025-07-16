@@ -19,7 +19,7 @@ I made this because I found that alot of pre-made Meshtastic nodes are too big a
 | PCB | 3D Preview | Case |
 |-----|------------|------|
 | ![PCB](assets/pcb.png) | ![3D-Front](assets/3dfront.png) | ![Baseplate](assets/cad.png) |
-| | ![3D-Back](assets/3dback.png) | |
+| ![3D-Front(Model)](assets/3dfront_model.png) | ![3D-Back](assets/3dback.png) | ![3D](assets/3d.png) |
 
 # BOM
 
