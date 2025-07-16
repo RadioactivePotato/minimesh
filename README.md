@@ -25,18 +25,18 @@ I made this because I found that alot of pre-made Meshtastic nodes are too big a
 
 | Qty | Item                            | Notes                         | Cost (GBP) | URL |
 |-----|---------------------------------|-------------------------------|------------|-----|
-| 1   | HT-RA62 Transceiver Module      | Can be replaced with RA-01SH  | 6.59       | [AliExperss](https://www.aliexpress.com/item/1005005543917617.html)                         |
-| 1   | nRF52840 ProMicro               | MCU (incl vat+shipping)       | 5.23       | [Elecrow](https://www.elecrow.com/pro-micro-nrf52840-development-board-compatible-with-nice-nano-v2-0.html) |
-| 1   | 0.96" OLED Display              | Pinout needs to be GND,VCC... | 1.82       | [AliExpress](https://www.aliexpress.com/item/1005008738379315.html)                         |
-| 2   | Switches                        |                               | 1.32       | [AliExpress](https://www.aliexpress.com/item/4001125532910.html)                            |
-| 1   | GP-02-KIT GPS Module            |                               | 3.35       | [AliExpress](https://www.aliexpress.com/item/1005008346885630.html)                         |
-| 1   | Slide Switch                    | For GPS module (5mm)          | 1.37       | [AliExpress](https://www.aliexpress.com/item/1005007162182882.html)                         |
-| 1   | 868MHz antenna (SMA M)          |                               | 4.52       | [AliExpress](https://www.aliexpress.com/item/1005006712636707.html)                         |
-| 1   | BME280 Module                   | Telementary data              | 0.76       | [AliExpress](https://www.aliexpress.com/item/1005008511564094.html)                         |
+| 2   | HT-RA62 Transceiver Module      | Can be replaced with RA-01SH  | 13.18       | [AliExperss](https://www.aliexpress.com/item/1005005543917617.html)                         |
+| 2   | nRF52840 ProMicro               | MCU (incl vat+shipping)       | 10.46       | [Elecrow](https://www.elecrow.com/pro-micro-nrf52840-development-board-compatible-with-nice-nano-v2-0.html) |
+| 2   | 0.96" OLED Display              | Pinout needs to be GND,VCC... | 3.64       | [AliExpress](https://www.aliexpress.com/item/1005008738379315.html)                         |
+| 4   | Switches                        |                               | 2.64       | [AliExpress](https://www.aliexpress.com/item/4001125532910.html)                            |
+| 2   | GP-02-KIT GPS Module            |                               | 6.70       | [AliExpress](https://www.aliexpress.com/item/1005008346885630.html)                         |
+| 2   | Slide Switch                    | For GPS module (5mm)          | 2.74       | [AliExpress](https://www.aliexpress.com/item/1005007162182882.html)                         |
+| 2   | 868MHz antenna (SMA M)          |                               | 9.04       | [AliExpress](https://www.aliexpress.com/item/1005006712636707.html)                         |
+| 2   | BME280 Module                   | Telementary data              | 1.52       | [AliExpress](https://www.aliexpress.com/item/1005008511564094.html)                         |
 |-----|---------------------------------|-------------------------------|------------|-----|
 | 5   | PCB                             | Min order qty - 5             | 1.11       | JLCPCB                                                                                      |
 |-----|---------------------------------|-------------------------------|------------|-----|
-|-----|---------------------------------|-------------------------------| 33.47GBP   |-----|
-|-----|---------------------------------|-------------------------------| 44.91USD   |-----|
+|-----|---------------------------------|-------------------------------| 51.03GBP   |-----|
+|-----|---------------------------------|-------------------------------| 68.43USD   |-----|
 
 ![A badge of a Cerberus and a raccoon laughing together, with the text "HIGHWAY" and "HACK CLUB" beside them.](https://hc-cdn.hel1.your-objectstorage.com/s/v3/0bbcca68ffa3845300bb76940f8ad91fd53d2d68_06-30-2025-1618.png)
