@@ -1,5 +1,25 @@
 # minimesh
-Tiny low power mesh node with gps, rotary encoder, and oled display
+A tiny, low-power Meshtastic compatible device with GPS, enviroment sensor and an OLED display powered by nRF52840
+
+# About
+
+I made this because I found that alot of pre-made Meshtastic nodes are too big and too power hungry, this node uses the nRF52840 chip instead of the ESP32-S3 since it's much more power efficient, while only sacrificing the Wi-Fi feature.
+
+# Images
+
+<details>
+<summary>Schematic (click to expand)</summary>
+
+| Schematic |
+|-----------|
+| ![Schematic](assets/schematic.png) |
+
+</details>
+
+| PCB | 3D Preview | Case |
+|-----|------------|------|
+| ![PCB](assets/pcb.png) | ![3D-Front](assets/3dfront.png) | ![Baseplate](assets/cad.png) |
+| | ![3D-Back](assets/3dback.png) | |
 
 # BOM
 
@@ -12,8 +32,11 @@ Tiny low power mesh node with gps, rotary encoder, and oled display
 | 1   | GP-02-KIT GPS Module            |                               | 3.35       | [AliExpress](https://www.aliexpress.com/item/1005008346885630.html)                         |
 | 1   | Slide Switch                    | For GPS module (5mm)          | 1.37       | [AliExpress](https://www.aliexpress.com/item/1005007162182882.html)                         |
 | 1   | 868MHz antenna (SMA M)          |                               | 4.52       | [AliExpress](https://www.aliexpress.com/item/1005006712636707.html)                         |
+| 1   | BME280 Module                   | Telementary data              | 0.76       | [AliExpress](https://www.aliexpress.com/item/1005008511564094.html)                         |
 |-----|---------------------------------|-------------------------------|------------|-----|
 | 5   | PCB                             | Min order qty - 5             | 1.11       | JLCPCB                                                                                      |
 |-----|---------------------------------|-------------------------------|------------|-----|
-|-----|---------------------------------|-------------------------------| 32.71GBP   |-----|
-|-----|---------------------------------|-------------------------------| 44.16USD   |-----|
+|-----|---------------------------------|-------------------------------| 33.47GBP   |-----|
+|-----|---------------------------------|-------------------------------| 44.91USD   |-----|
+
+![A badge of a Cerberus and a raccoon laughing together, with the text "HIGHWAY" and "HACK CLUB" beside them.](https://hc-cdn.hel1.your-objectstorage.com/s/v3/0bbcca68ffa3845300bb76940f8ad91fd53d2d68_06-30-2025-1618.png)

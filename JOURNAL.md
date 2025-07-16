@@ -1,7 +1,7 @@
 ---
 title: "MiniMesh"
 author: "krunch"
-description: "Tiny, low-power mesh node with gps, and an OLED display"
+description: "A tiny, low-power Meshtastic compatible device with GPS, enviroment sensor and an OLED display powered by nRF52840"
 created_at: "2025-07-10"
 ---
 
